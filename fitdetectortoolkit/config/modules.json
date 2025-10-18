@@ -1,0 +1,26 @@
+{
+  "Ageing Analysis": {
+    "url": "https://github.com/alicefittoolkit/AgeingAnalysis.git",
+    "branch": "main",
+    "description": "Analyze and visualize ageing factors in the FIT detector.",
+    "entry_point": "ageing_analysis.main",
+    "version": "latest",
+    "icon": "📊"
+  },
+  "Histogram Reader":  {
+    "url": "https://github.com/alicefittoolkit/HistogramReader.git",
+    "branch": "main",
+    "description": "Visualize histograms from the FIT detector.",
+    "entry_point": "histogram_reader.main",
+    "version": "latest",
+    "icon": "🔍"
+  },
+  "Gaussian Fit Parameter Time Series Analyzer": {
+    "url": "https://github.com/alicefittoolkit/GaussianFitParameterTimeSeriesAnalyzer.git",
+    "branch": "main",
+    "description": "Analyze the Gaussian fit parameters of the FIT detector.",
+    "entry_point": "gaussian_fit_parameter_tsa.main",
+    "version": "latest",
+    "icon": "📈"
+  }
+}
