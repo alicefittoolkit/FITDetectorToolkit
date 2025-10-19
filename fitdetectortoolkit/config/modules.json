@@ -27,7 +27,7 @@
     "url": "https://github.com/alicefittoolkit/DetectorMappingVisualizer.git",
     "branch": "master",
     "description": "Visualize the detector mapping of the FIT detector.",
-    "entry_point": "detector_mapping_visualizer.main",
+    "entry_point": "detectormappingvisualizer.main",
     "version": "latest",
     "icon": "🗺️"
   }
